@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36247" started-at="2022-01-11T16:58:07Z" finished-at="2022-01-11T16:58:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36247" started-at="2022-01-11T16:58:07Z" finished-at="2022-01-11T16:58:44Z">
+      <class name="amazonTest.BuyKindle">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:amazonTest.BuyKindle@5b275dab]" name="setUp" is-config="true" duration-ms="10774" started-at="2022-01-11T11:58:07Z" finished-at="2022-01-11T11:58:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="buyingKindle()[pri:1, instance:amazonTest.BuyKindle@5b275dab]" name="buyingKindle" duration-ms="23776" started-at="2022-01-11T11:58:18Z" finished-at="2022-01-11T11:58:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyingKindle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:amazonTest.BuyKindle@5b275dab]" name="tearDown" is-config="true" duration-ms="1660" started-at="2022-01-11T11:58:42Z" finished-at="2022-01-11T11:58:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- amazonTest.BuyKindle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
